@@ -1,6 +1,5 @@
 #include "cla.hxx"
 
-#include <system_error>
 #include <stdexcept>
 
 namespace pnd
